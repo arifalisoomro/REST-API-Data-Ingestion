@@ -93,9 +93,7 @@ For example:
 This allows the pipeline to retrieve multiple pages without manually creating separate API requests.
 
 ### REST API Source Configuration
-
-![ADF Pipeline](Source_Configuration.png)
-
+![REST API Source Configuration](Source_Configuration.png)
 ---
 
 # 🔹 Pagination Configuration in ADF
@@ -128,7 +126,7 @@ Continue Until All Data Is Retrieved
 
 ### Pagination Configuration
 
-![ADF Pipeline](Pagination.png)
+![Pagination Configuration](Pagination.png)
 
 ---
 
