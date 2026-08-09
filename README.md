@@ -128,7 +128,7 @@ Continue Until All Data Is Retrieved
 
 ### Pagination Configuration
 
-![Pagination Configuration](Pagination_Configuration.png)
+
 ![Pagination Configuration](Pagination_Configuration.png)
 
 ---
