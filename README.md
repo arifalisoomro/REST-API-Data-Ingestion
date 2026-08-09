@@ -33,6 +33,10 @@ Destination
 
 The **Copy Activity** connects to the REST API, retrieves the data page by page, and loads the complete dataset into the destination.
 
+### ADF Pipeline
+
+![ADF Pipeline](Pipeline.png)
+
 ---
 
 # 🔄 How Pagination Works
@@ -88,6 +92,10 @@ For example:
 
 This allows the pipeline to retrieve multiple pages without manually creating separate API requests.
 
+### REST API Source Configuration
+
+![REST API Source Configuration](Source_Configuration.png)
+
 ---
 
 # 🔹 Pagination Configuration in ADF
@@ -117,6 +125,10 @@ Retrieve Next Data
       ↓
 Continue Until All Data Is Retrieved
 ```
+
+### Pagination Configuration
+
+![Pagination Configuration](Pagination.png)
 
 ---
 
@@ -169,43 +181,13 @@ This makes the pipeline more **dynamic and reusable**.
 
 ---
 
-# 📸 Pipeline
+# 📊 Output
 
-Add the screenshot of your complete ADF pipeline:
+The API data is successfully retrieved through multiple requests and loaded into the destination.
 
-```text
-REST-API-Data-Ingestion/blob/main/Pipeline.png
-```
+### Output
 
----
-
-# 📸 REST API Source Configuration
-
-Add the screenshot showing the REST API source configuration:
-
-```text
-![REST API Source](Screenshots/Source_Configuration.png)
-```
-
----
-
-# 📸 Pagination Configuration
-
-Add the screenshot showing the pagination rule:
-
-```text
-![Pagination Configuration](Screenshots/Pagination.png)
-```
-
----
-
-# 📸 Output
-
-Add the screenshot showing the successfully retrieved data:
-
-```text
-![Output](Screenshots/Output.png)
-```
+![API Data Output](Output.png)
 
 ---
 
