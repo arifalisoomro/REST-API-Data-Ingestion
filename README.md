@@ -174,7 +174,7 @@ This makes the pipeline more **dynamic and reusable**.
 Add the screenshot of your complete ADF pipeline:
 
 ```text
-Pipeline.png
+REST-API-Data-Ingestion/blob/main/Pipeline.png
 ```
 
 ---
