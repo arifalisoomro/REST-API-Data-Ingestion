@@ -70,7 +70,7 @@ The REST API is configured using a **Base URL** and **Relative URL**.
 ### Base URL
 
 ```text
-https://api.example.com
+(https://pokeapi.co/api/v2/pokemon)
 ```
 
 ### Relative URL
@@ -94,7 +94,7 @@ This allows the pipeline to retrieve multiple pages without manually creating se
 
 ### REST API Source Configuration
 
-![REST API Source Configuration](Source_Configuration.png)
+![ADF Pipeline](Source_Configuration.png)
 
 ---
 
@@ -128,7 +128,7 @@ Continue Until All Data Is Retrieved
 
 ### Pagination Configuration
 
-![Pagination Configuration](Pagination.png)
+![ADF Pipeline](Pagination.png)
 
 ---
 
